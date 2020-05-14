@@ -1,0 +1,2 @@
+C:\Users\tlong\source\repos\TflibTstTool\RAWsToPLYs\Input\RAW\
+C:\Users\tlong\source\repos\TflibTstTool\RAWsToPLYs\Output\PLY\

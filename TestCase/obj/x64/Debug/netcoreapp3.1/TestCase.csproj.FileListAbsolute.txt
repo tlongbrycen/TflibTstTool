@@ -1,0 +1,13 @@
+C:\Users\tlong\source\repos\TflibTstTool\TestCase\bin\x64\Debug\netcoreapp3.1\TestCase.exe
+C:\Users\tlong\source\repos\TflibTstTool\TestCase\bin\x64\Debug\netcoreapp3.1\TestCase.deps.json
+C:\Users\tlong\source\repos\TflibTstTool\TestCase\bin\x64\Debug\netcoreapp3.1\TestCase.runtimeconfig.json
+C:\Users\tlong\source\repos\TflibTstTool\TestCase\bin\x64\Debug\netcoreapp3.1\TestCase.runtimeconfig.dev.json
+C:\Users\tlong\source\repos\TflibTstTool\TestCase\bin\x64\Debug\netcoreapp3.1\TestCase.dll
+C:\Users\tlong\source\repos\TflibTstTool\TestCase\bin\x64\Debug\netcoreapp3.1\TestCase.pdb
+C:\Users\tlong\source\repos\TflibTstTool\TestCase\obj\x64\Debug\netcoreapp3.1\TestCase.csproj.CoreCompileInputs.cache
+C:\Users\tlong\source\repos\TflibTstTool\TestCase\obj\x64\Debug\netcoreapp3.1\TestCase.AssemblyInfoInputs.cache
+C:\Users\tlong\source\repos\TflibTstTool\TestCase\obj\x64\Debug\netcoreapp3.1\TestCase.AssemblyInfo.cs
+C:\Users\tlong\source\repos\TflibTstTool\TestCase\obj\x64\Debug\netcoreapp3.1\TestCase.dll
+C:\Users\tlong\source\repos\TflibTstTool\TestCase\obj\x64\Debug\netcoreapp3.1\TestCase.pdb
+C:\Users\tlong\source\repos\TflibTstTool\TestCase\obj\x64\Debug\netcoreapp3.1\TestCase.genruntimeconfig.cache
+C:\Users\tlong\source\repos\TflibTstTool\TestCase\obj\x64\Debug\netcoreapp3.1\TestCase.csproj.CopyComplete

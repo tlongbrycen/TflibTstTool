@@ -1,0 +1,12 @@
+C:\Users\tlong\source\repos\TflibTstTool\RAWsToPLYs\bin\Debug\netcoreapp3.1\RAWsToPLYs.exe
+C:\Users\tlong\source\repos\TflibTstTool\RAWsToPLYs\bin\Debug\netcoreapp3.1\RAWsToPLYs.deps.json
+C:\Users\tlong\source\repos\TflibTstTool\RAWsToPLYs\bin\Debug\netcoreapp3.1\RAWsToPLYs.runtimeconfig.json
+C:\Users\tlong\source\repos\TflibTstTool\RAWsToPLYs\bin\Debug\netcoreapp3.1\RAWsToPLYs.runtimeconfig.dev.json
+C:\Users\tlong\source\repos\TflibTstTool\RAWsToPLYs\bin\Debug\netcoreapp3.1\RAWsToPLYs.dll
+C:\Users\tlong\source\repos\TflibTstTool\RAWsToPLYs\bin\Debug\netcoreapp3.1\RAWsToPLYs.pdb
+C:\Users\tlong\source\repos\TflibTstTool\RAWsToPLYs\obj\Debug\netcoreapp3.1\RAWsToPLYs.csproj.CoreCompileInputs.cache
+C:\Users\tlong\source\repos\TflibTstTool\RAWsToPLYs\obj\Debug\netcoreapp3.1\RAWsToPLYs.AssemblyInfoInputs.cache
+C:\Users\tlong\source\repos\TflibTstTool\RAWsToPLYs\obj\Debug\netcoreapp3.1\RAWsToPLYs.AssemblyInfo.cs
+C:\Users\tlong\source\repos\TflibTstTool\RAWsToPLYs\obj\Debug\netcoreapp3.1\RAWsToPLYs.dll
+C:\Users\tlong\source\repos\TflibTstTool\RAWsToPLYs\obj\Debug\netcoreapp3.1\RAWsToPLYs.pdb
+C:\Users\tlong\source\repos\TflibTstTool\RAWsToPLYs\obj\Debug\netcoreapp3.1\RAWsToPLYs.genruntimeconfig.cache
